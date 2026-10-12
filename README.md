@@ -1,151 +1,139 @@
-<!--
-  Akhilesh Samarth | GitHub Profile README
-  Setup:
-  1. Create a public GitHub repository named exactly as your GitHub username.
-  2. Copy this README.md into that repository.
-  3. Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_URL, and YOUR_EMAIL if needed.
-  4. Optional: personalize the pinned project links and stats theme.
--->
-
 <div align="center">
 
-# Hi, I'm Akhilesh Samarth 👋
-
-### Computer Science Engineer | Full-Stack Developer | AI/ML Enthusiast
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+useful+web+experiences;Exploring+Machine+Learning+%26+NLP;Turning+ideas+into+working+projects;Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
+<img src="assets/profile-banner.png" alt="Akhilesh Samarth — Full-Stack Developer and AI/ML" width="100%" />
 
 <p>
-  <a href="https://github.com/akhilesh146">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/akhilesh-samarth/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:akhileshsamarth146@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/akhilesh146"><img src="https://img.shields.io/badge/GitHub-akhilesh146-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=akhilesh146&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=akhilesh146&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" />
+### `Building • Learning • Shipping`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+%26+NLP+Enthusiast;Exploring+RAG+and+intelligent+applications;Turning+ideas+into+useful+software" alt="Typing animation" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 A little about me
 
-- 🎓 Computer Science and Engineering graduate from **NIT Andhra Pradesh** (2022–2026).
-- 🌐 Interested in building full-stack applications with **React, Node.js, Express, and MongoDB**.
-- 🤖 Exploring **Machine Learning, Deep Learning, NLP, and Retrieval-Augmented Generation (RAG)**.
-- 🧩 Enjoy solving problems and turning ideas into practical projects.
-- 🌱 Currently growing my skills across software engineering, AI, and modern application development.
+I'm **Akhilesh Samarth**, a Computer Science and Engineering graduate from **NIT Andhra Pradesh**. I enjoy creating full-stack applications, exploring AI/ML, and turning technical ideas into useful products.
+
+- 🌐 **Web:** React, Node.js, Express, MongoDB, TypeScript
+- 🤖 **AI/ML:** Machine Learning, Deep Learning, NLP, RAG, FAISS, Hugging Face
+- 🧠 **Core CS:** Data Structures & Algorithms, OOP, DBMS, SQL
+- 🚀 I like building practical projects and continuously improving my engineering skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 My toolkit
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,sql" alt="Java, Python, JavaScript, C, HTML and SQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite,git,github,tensorflow,sklearn" alt="Technology icons" />
 </p>
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite,git,github" alt="React, Node.js, Express, MongoDB, MySQL, Tailwind, Bootstrap, Vite, Git and GitHub" />
-</p>
+<div align="center">
+  <img src="assets/skills-dashboard.svg" alt="Visual summary of my technology interests" width="100%" />
+</div>
 
-### Data Science & AI/ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Python, TensorFlow and Scikit-learn" />
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-6D5AE6?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/RAG-0F9D8A?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" alt="NLP" />
-  <img src="https://img.shields.io/badge/RAG-2E8B57?style=flat-square" alt="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 MediBot.AI</h3>
-      <p>An AI-powered medical question-answering application using a Retrieval-Augmented Generation (RAG) pipeline to retrieve relevant medical content and generate context-aware responses.</p>
-      <p><strong>Tech:</strong> Python · LangChain · FAISS · Hugging Face Embeddings · Mistral · Streamlit</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/MediBot.AI">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 ZYNC</h3>
-      <p>A career portal for the NIT Andhra Pradesh community, bringing internship and job opportunities together with separate access for students and administrators.</p>
-      <p><strong>Tech:</strong> React · TypeScript · Tailwind CSS · Node.js · Appwrite · Vite</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/ZYNC">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏡 Accommodation Booking Platform</h3>
-      <p>A lodging platform designed to help users explore accommodation options, with backend data models for users, properties, bookings, and reviews.</p>
-      <p><strong>Tech:</strong> Node.js · Express.js · MongoDB · EJS · Bootstrap · JavaScript</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Accommodation-Booking-Platform">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ More Projects</h3>
-      <p>Explore my GitHub repositories for experiments, learning projects, and other work in software development and AI/ML.</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Browse All Repositories →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 MediBot.AI
+An AI-powered medical question-answering project using retrieval-augmented generation to retrieve relevant medical content and produce context-aware responses.
+
+**Built with:** Python · LangChain · FAISS · Hugging Face Embeddings · Mistral · Streamlit
+
+<a href="https://github.com/akhilesh146?tab=repositories">Explore repositories →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 ZYNC
+A career portal for the NIT Andhra Pradesh community that centralizes internship and job opportunities, with separate permissions for students and administrators.
+
+**Built with:** React · TypeScript · Tailwind CSS · Node.js · Appwrite · Vite
+
+<a href="https://github.com/akhilesh146?tab=repositories">Explore repositories →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 Accommodation Booking Platform
+A lodging platform with backend data models for users, properties, bookings, and reviews, designed around a straightforward booking experience.
+
+**Built with:** Node.js · Express.js · MongoDB · EJS · Bootstrap · JavaScript
+
+<a href="https://github.com/akhilesh146?tab=repositories">Explore repositories →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 More experiments
+I also explore data analysis, machine learning, and web development through smaller projects and learning repositories.
+
+<a href="https://github.com/akhilesh146?tab=repositories">Browse all repositories →</a>
+
+</td>
+</tr>
 </table>
 
-> **Before publishing:** Replace the example repository URLs above with the actual repository names and links. Project links are placeholders until verified.
+> **Project links:** The descriptions above come from my résumé. Replace the general repository links with each exact repository URL when ready.
 
 ---
 
-## 📊 GitHub Dashboard
+## 📈 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akhilesh146&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh146&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=akhilesh146&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
-<!-- Optional contribution snake:
-     Add a GitHub Actions workflow to generate the snake asset before enabling this image.
-     <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution graph animation" />
--->
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & milestones
 
 - 🟢 **Fundamentals of Deep Learning** — NVIDIA
 - 🟢 **Building Transformer-Based NLP Applications** — NVIDIA
 - 🚀 **Zonalist at Eureka** — IIT Bombay
-- 💻 **GATE CS** — All India Rank 7807
-- 🤝 Executive Member — E-Yantra Club, NIT Andhra Pradesh
+- 💻 **GATE CS — AIR 7807**
+- 🤝 **Executive Member** — E-Yantra Club, NIT Andhra Pradesh
 
 ---
 
-## 🎯 What I'm Interested In
+## 🤝 Let's connect
 
-`Full-Stack Development` · `AI/ML` · `NLP & RAG` · `Problem Solving` · `Software Engineering`
+I'm happy to connect with developers, exchange ideas, and learn about interesting projects.
 
----
+<p>
+  <a href="https://github.com/akhilesh146"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
+  <!-- Replace the placeholder below with your actual LinkedIn profile URL -->
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
+</p>
 
 <div align="center">
 
-### Thanks for stopping by! ✨
-
-*Let's build something useful together.*
+*Thanks for visiting my profile — have a great day! ✨*
 
 </div>

@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://github.com/akhilesh146"><img src="https://img.shields.io/badge/GitHub-akhilesh146-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/akhilesh-samarth/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=akhilesh146&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
